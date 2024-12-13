@@ -1,40 +1,14 @@
 {
-  "users": [
+  "todos": [
     {
-      "id": "hadi.b.js",
-      "name": "Hadi",
-      "email": "hadi.b.1998@gmail.com",
-      "password": "hadi1234",
-      "tasks": [
-        {
-          "id": 1,
-          "name": "getting the project done",
-          "complete": false
-        },
-        {
-          "id": 2,
-          "name": "cooking the dinner",
-          "complete": true
-        }
-      ]
+      "id": 1,
+      "title": "getting the project done",
+      "completed": false
     },
     {
-      "id": "Mehrad",
-      "userName": "mehrad.asghari",
-      "email": "Mehrad@gmail.com",
-      "password": "mehrad1234",
-      "tasks": [
-        {
-          "id": 1,
-          "name": "going to club",
-          "complete": false
-        },
-        {
-          "id": 2,
-          "name": "playing piano",
-          "complete": true
-        }
-      ]
+      "id": 2,
+      "title": "cooking the dinner",
+      "completed": true
     }
   ]
 }
