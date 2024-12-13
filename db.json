@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Hadi",
+            "email": "hadi.b.1998@gmail.com",
+            "password": "hadi1234",
+            "tasks": [
+                {
+                    "id": 1,
+                    "name": "getting the project done",
+                    "complete": false
+                },
+                {
+                    "id": 2,
+                    "name": "cooking the dinner",
+                    "complete": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Mehrad",
+            "email": "Mehrad@gmail.com",
+            "password": "mehrad1234",
+            "tasks": [
+                {
+                    "id": 1,
+                    "name": "going to club",
+                    "complete": false
+                },
+                {
+                    "id": 2,
+                    "name": "playing piano",
+                    "complete": true
+                }
+            ]
+        }
+    ]
+}
