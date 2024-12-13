@@ -1,4 +1,4 @@
-import { useEffect, useReducer, useState } from "react";
+import { useReducer, useState } from "react";
 import "./App.css";
 
 function reducer(state, action) {
@@ -44,6 +44,7 @@ function App() {
 
   return (
     <>
+      <h1>Easy Todo</h1>
       <input
         id="add-input"
         type="text"
